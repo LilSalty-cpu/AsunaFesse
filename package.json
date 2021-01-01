@@ -1,0 +1,48 @@
+{
+  "name": "sensualbot",
+  "version": "2.0.0",
+  "description": "Sensual BOT",
+  "main": "dorito.js",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "booru": "^2.3.2",
+    "common-tags": "^1.8.0",
+    "cpu-stat": "^2.0.1",
+    "discord-economy": "^1.2.2",
+    "discord-rpc": "^3.1.4",
+    "discord.js": "^12.3.1",
+    "duration-format": "^0.0.2",
+    "ffmpeg-static": "^4.2.7",
+    "figlet": "^1.5.0",
+    "got": "^11.5.2",
+    "jimp": "^0.16.1",
+    "mal-scraper": "^2.7.2",
+    "math-expression-evaluator": "^1.2.22",
+    "moment": "^2.27.0",
+    "moment-duration-format": "^2.3.2",
+    "nekos.life": "^2.0.7",
+    "node-fetch": "^2.6.1",
+    "node-osu": "^2.2.0",
+    "random-puppy": "^1.1.0",
+    "request-promise-native": "^1.0.9",
+    "urban.js": "^2.4.3",
+    "ws": "^7.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aaronidk/Dorito-bot-discord.js.git"
+  },
+  "keywords": [
+    "Sensual"
+  ],
+  "author": "Aaronidk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LilSalty-cpu/SensualBot-/issues"
+  },
+  "homepage": "https://github.com/Aaronidk/Dorito-bot-discord.js#readme"
+}
