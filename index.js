@@ -17,7 +17,7 @@ client.categories = fs.readdirSync("./commands/");
 
 client.on("ready", () => {
 console.log(`Le bot ${client.user.username} est pret `);
-client.user.setActivity('💋・Sensual | +help', { type: 'WATCHING' });
+client.user.setActivity('💋・Fesse de Salty | +help', { type: 'WATCHING' });
 });
 
 client.on("message", async message => {
