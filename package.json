@@ -2,7 +2,7 @@
   "name": "sensualbot",
   "version": "2.0.0",
   "description": "Sensual BOT",
-  "main": "dorito.js",
+  "main": "index.js",
   "dependencies": {
     "ascii-table": "^0.0.9",
     "booru": "^2.3.2",
@@ -39,10 +39,10 @@
   "keywords": [
     "Sensual"
   ],
-  "author": "Aaronidk",
+  "author": "Salty",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/LilSalty-cpu/SensualBot-/issues"
+    "url": "https://github.com/LilSalty-cpu/AsunaFesse/issues"
   },
-  "homepage": "https://github.com/Aaronidk/Dorito-bot-discord.js#readme"
+  "homepage": "https://github.com/LilSalty_cpu/AsunaFesse"
 }
